@@ -43,6 +43,6 @@ Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and proje
 
 Published on YYYY/MM/DD (not officially published yet)
 
----
+----
 
 Submit a PR to [README.md](https://github.com/owasp-change/owasp-change.github.io/blob/main/README.md) to add your name.
