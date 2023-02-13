@@ -41,6 +41,7 @@ Rick Mitchell, [OWASP ZAP](https://www.zaproxy.org) co-project leader, [OWASP We
 Steve Springett, [OWASP CycloneDX](https://www.cyclonedx.org) and [OWASP Dependency-Track](https://dependencytrack.org) founder and co-project leader<br>
 Björn Kimminich, [OWASP Juice Shop](https://owasp-juice.shop) founder and project leader<br>
 Deepayan Chanda, Member OWASP
+
 Published on YYYY/MM/DD (not officially published yet)
 
 ---
